@@ -2,6 +2,9 @@ angular-sprang
 ==============
 This module provide a configuration to the [Sprang project](https://github.com/cgarnier/Sprang).
 
+Install
+=======
+``` bower install angular-sprang ```
 
 Usage
 =======
