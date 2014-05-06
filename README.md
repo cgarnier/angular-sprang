@@ -1,7 +1,6 @@
 angular-sprang
 ==============
-This module provide a configuration to the [Sprang project](https://github.com/cgarnier/Sprang)
-Sprang angular module including config provider for sprang.
+This module provide a configuration to the [Sprang project](https://github.com/cgarnier/Sprang).
 
 
 Usage
