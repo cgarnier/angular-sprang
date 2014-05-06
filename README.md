@@ -1,4 +1,20 @@
 angular-sprang
 ==============
-
+This module provide a configuration to the [Sprang project](https://github.com/cgarnier/Sprang)
 Sprang angular module including config provider for sprang.
+
+
+Usage
+=======
+
+``` javascript
+angular.module('myApp', ['angular-sprang', ... ])
+  .config(function(sprangConfigProvider){
+    sprangConfigProvider.add('myApi1', {url: 'http://api1/url'});
+    sprangConfigProvider.add('myApi1', {url: 'http://api2/url'});
+    [...]
+  });
+  
+```
+  
+  
